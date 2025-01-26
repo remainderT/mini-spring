@@ -1,8 +1,9 @@
-package org.springframework.test.ioc;
+package org.springframework.test.beans;
 
 import org.junit.Test;
-import org.springframework.test.ioc.factory.config.BeanDefinition;
-import org.springframework.test.ioc.factory.support.DefaultListableBeanFactory;
+import org.springframework.test.beans.factory.config.BeanDefinition;
+import org.springframework.test.beans.factory.support.DefaultListableBeanFactory;
+import org.springframework.test.beans.service.HelloService;
 
 public class BeanDefinitionAndBeanDefinitionRegistryTes {
 

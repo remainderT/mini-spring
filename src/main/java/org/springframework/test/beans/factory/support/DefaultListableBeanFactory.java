@@ -1,7 +1,7 @@
-package org.springframework.test.ioc.factory.support;
+package org.springframework.test.beans.factory.support;
 
-import org.springframework.test.ioc.BeansException;
-import org.springframework.test.ioc.factory.config.BeanDefinition;
+import org.springframework.test.beans.BeansException;
+import org.springframework.test.beans.factory.config.BeanDefinition;
 
 import java.util.HashMap;
 import java.util.Map;

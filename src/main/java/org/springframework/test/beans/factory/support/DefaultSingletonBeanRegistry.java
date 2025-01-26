@@ -1,6 +1,6 @@
-package org.springframework.test.ioc.factory.support;
+package org.springframework.test.beans.factory.support;
 
-import org.springframework.test.ioc.factory.config.SingletonBeanRegistry;
+import org.springframework.test.beans.factory.config.SingletonBeanRegistry;
 
 import java.util.HashMap;
 import java.util.Map;

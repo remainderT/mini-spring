@@ -1,4 +1,4 @@
-package org.springframework.test.ioc.factory.config;
+package org.springframework.test.beans.factory.config;
 
 /**
  * 单例注册表

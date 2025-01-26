@@ -1,4 +1,4 @@
-package org.springframework.test.ioc;
+package org.springframework.test.beans;
 
 public class BeansException extends RuntimeException {
 
